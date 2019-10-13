@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigation, styled-components, React Native Vector Icons e Reactotron.
+Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigation, styled-components, React Native Vector Icons, Axios e Reactotron.
 
 ## Índice
 
@@ -45,6 +45,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ## Utilizados no Projeto
 
 ### Bibliotecas
+
+- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
 - [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
 
