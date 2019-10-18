@@ -14,6 +14,12 @@ Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigatio
 
 ## Índice
 
+- [Capturas de Tela](#capturas-de-tela)
+
+  - [Principal](#principal)
+
+  - [Usuário](#usuário)
+
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configuração do Ambiente](#configuração-do-ambiente)
@@ -26,7 +32,21 @@ Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigatio
 
   - [Bibliotecas](#bibliotecas)
 
+  - [APIs](#apis)
+
   - [Ferramentas](#ferramentas)
+
+## Capturas de Tela
+
+### Principal
+
+![Main](/assets/main.png)
+Esta é a primeira tela, onde deve ser informado um usuário existente do GitHub, que ao ser adicionado, ele aparecerá numa lista abaixo.
+
+### Usuário
+
+![User](/assets/user.png)
+Nesta tela estão todos os repositórios do GitHub favoritados pelo usuário, podendo também voltar para a tela principal.
 
 ## Desenvolvimento
 
@@ -77,6 +97,16 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [reactotron-react-native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-native.md)
 
 - [styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/styled-components.md)
+
+### APIs
+
+- **[GitHub](https://api.github.com)**
+
+  - **Rotas**
+
+    - Usuários
+
+      - Busca dados de repositórios pertencente a um usuário
 
 ### Ferramentas
 
