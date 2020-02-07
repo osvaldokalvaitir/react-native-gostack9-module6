@@ -40,12 +40,12 @@ Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigatio
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a primeira tela, onde deve ser informado um usuário existente do GitHub, que ao ser adicionado, ele aparecerá numa lista abaixo.
 
 ### Usuário
 
-![User](/assets/user.png)
+![User](/.github/assets/user.png)
 Nesta tela estão todos os repositórios do GitHub favoritados pelo usuário, podendo também voltar para a tela principal.
 
 ## Desenvolvimento
